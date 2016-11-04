@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4E8FE33026C73951A712CD33348204351A71B278",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "01999C40FD51726779856B7F4163EED459D16161" : 9223372036854775807,
+    "4E8FE33026C73951A712CD33348204351A71B278" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3E469793-3096-4DEF-B01A-E8FACBC32E07",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "01999C40FD51726779856B7F4163EED459D16161" : "..",
+    "4E8FE33026C73951A712CD33348204351A71B278" : "Locksmith\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Locksmith",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Locksmith.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:woodmacMobile\/PortalNative.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "01999C40FD51726779856B7F4163EED459D16161"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/markbrindle\/Locksmith.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4E8FE33026C73951A712CD33348204351A71B278"
+    }
+  ]
+}
